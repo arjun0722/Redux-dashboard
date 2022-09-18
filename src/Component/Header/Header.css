@@ -1,0 +1,20 @@
+.right_head {
+  display: flex;
+  justify-content: space-around;
+}
+.headers {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+margin-top: 1rem !important;
+margin-bottom: 1rem !important;
+  width: 98% !important;
+  margin: auto;
+}
+.inputs {
+  border: none;
+  outline: none;
+  background-color: #e5e5e5;
+  width: 212px;
+  height: 37px;
+}

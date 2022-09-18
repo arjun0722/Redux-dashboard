@@ -1,0 +1,37 @@
+.student_head{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.list{
+    font-weight: bold;
+    font-size: 22px;
+
+}
+.list_btn{
+    background-color: #FEAF00;
+    border: none;
+    outline: none;
+    width: 199px;
+    height: 44px;
+    color: white;
+    font-size: 14px;
+    font-weight: 700;
+    border-radius: 5px;
+}
+.students{
+    max-width: 90% !important;
+    margin: auto;
+}
+.table th{
+    color: #ACACAC;
+}
+.icons{
+    display: flex;
+    justify-content: space-around;
+    color: #FEAF00;
+}
+.st_btn{
+    background-color: whitesmoke;
+    border: none;
+}
